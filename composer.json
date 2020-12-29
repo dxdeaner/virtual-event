@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stripe/stripe-php": "^7.65",
+	    "activecampaign/api-php": "1.0.0"
+    },
+    "minimum-stability": "dev"
+}
